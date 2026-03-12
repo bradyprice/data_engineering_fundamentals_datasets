@@ -1,0 +1,51 @@
+species_code,risk_level,handling_protocol
+SC01,Low,Observe Only
+SC02,Medium,Observe Only
+SC03,Low,Report to Ranger
+SC04,Medium,Observe Only
+SC05,High,Observe Only
+SC06,Low,Observe Only
+SC07,Low,Observe Only
+SC08,Low,Report to Ranger
+SC09,Low,Observe Only
+SC10,Low,Report to Ranger
+SC11,Medium,Do Not Approach
+SC12,Medium,Report to Ranger
+SC13,Low,Observe Only
+SC14,Low,Observe Only
+SC15,Low,Report to Ranger
+SC16,High,Observe Only
+SC17,Low,Do Not Approach
+SC18,Low,Keep Distance
+SC19,High,Keep Distance
+SC20,Low,Observe Only
+SC21,Low,Keep Distance
+SC22,High,Observe Only
+SC23,Low,Observe Only
+SC24,Low,Observe Only
+SC25,High,Report to Ranger
+SC26,Low,Observe Only
+SC27,Low,Observe Only
+SC28,Medium,Observe Only
+SC29,Medium,Observe Only
+SC30,Low,Observe Only
+SC31,Low,Observe Only
+SC32,Low,Observe Only
+SC33,Low,Observe Only
+SC34,Low,Keep Distance
+SC35,Low,Keep Distance
+SC36,Medium,Observe Only
+SC37,Medium,Observe Only
+SC38,Low,Keep Distance
+SC39,Low,Keep Distance
+SC40,Low,Report to Ranger
+SC41,Low,Keep Distance
+SC42,Low,Keep Distance
+SC43,Medium,Observe Only
+SC44,Low,Keep Distance
+SC45,Low,Observe Only
+SC46,Medium,Observe Only
+SC47,Low,Keep Distance
+SC48,High,Report to Ranger
+SC49,Low,Observe Only
+SC50,Medium,Report to Ranger
